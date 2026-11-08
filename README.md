@@ -34,3 +34,51 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## Deploy ke Vercel
+
+### Cara 1 — lewat GitHub (disarankan)
+
+1. Buat repository baru di [github.com/new](https://github.com/new).
+2. Dari folder project, jalankan:
+
+   ```bash
+   git add .
+   git commit -m "Siap deploy"
+   git branch -M main
+   git remote add origin https://github.com/USERNAME/NAMA-REPO.git
+   git push -u origin main
+   ```
+
+3. Buka [vercel.com/new](https://vercel.com/new), lalu import repository tersebut.
+4. Framework akan otomatis terdeteksi **Next.js** — biarkan pengaturan default.
+5. Buka **Environment Variables**, tambahkan:
+
+   | Name | Value |
+   |---|---|
+   | `ADMIN_PASSWORD` | password admin pilihanmu |
+
+6. Klik **Deploy** dan tunggu sampai selesai.
+7. Tambahkan domain sendiri di **Project Settings > Domains** (opsional).
+
+### Cara 2 — lewat CLI
+
+```bash
+npm i -g vercel
+vercel login
+vercel            # deploy preview
+vercel --prod     # deploy production
+```
+
+Tambahkan environment variable lewat dashboard Vercel atau:
+
+```bash
+vercel env add ADMIN_PASSWORD production
+```
+
+### Catatan penting
+
+- Halaman publik dan gambar di `public/projects/` berjalan normal di Vercel.
+- Fitur **/admin menyimpan data ke file lokal** (`data/projects.json` dan `data/uploads`). Filesystem Vercel bersifat sementara dan read-only, jadi perubahan/upload dari admin **tidak akan tersimpan permanen**.
+- Kalau admin harus berfungsi di production, gunakan penyimpanan eksternal (Vercel Blob/KV, Supabase, atau S3) atau hosting VPS dengan disk permanen.
+- Jangan commit `.env.local`. Untuk production, isi `ADMIN_PASSWORD` lewat Environment Variables Vercel.

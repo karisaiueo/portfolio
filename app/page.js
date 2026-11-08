@@ -61,10 +61,7 @@ const T = {
         "Mobile",
         "Pendakianku",
         "Pendakianku is a mobile application developed using Flutter, focusing on intuitive UI design, smooth navigation, and a user-friendly experience. The project transforms UI concepts into functional mobile interfaces through frontend implementation.",
-        `Pendakianku is a mobile application development project focused on creating an intuitive and user-friendly mobile experience. The project emphasizes interface design, structured layouts, and smooth navigation to ensure users can interact with the application comfortably.
-        Developed using Flutter and Dart, the application was built by translating UI designs into functional mobile interfaces. The development process involved implementing page layouts, organizing visual components, creating navigation between screens, and maintaining consistent styling throughout the application.
-        This project provided hands-on experience in mobile frontend development, UI implementation, and transforming design concepts into functional mobile applications.`,
-        "Mobile Development, UI Implementation, Flutter Development",
+"Pendakianku is a mobile application development project collaboratively developed by a two-person team. The application was designed to provide users with a convenient and user-friendly platform related to mountain hiking activities. The project focuses on creating an intuitive mobile application with a well-structured interface, organized layouts, and smooth navigation to ensure a comfortable user experience.\n\nIn this project, I was responsible for the frontend development, focusing on designing and implementing the application's user interface using Flutter and Dart. My responsibilities included developing the visual layout of each screen, arranging UI components, implementing interactive elements, and creating navigation flows between different pages. I also ensured that the application interface was consistent, visually organized, and easy for users to understand and navigate.\n\nMeanwhile, my teammate was responsible for the backend development, handling the application logic, data management, and backend functionality. The project was developed through collaboration and task distribution between both team members, with each person focusing on their respective responsibilities.\n\nThrough this project, I gained practical experience in mobile frontend development, UI implementation, Flutter and Dart programming, and collaborative software development. It also strengthened my understanding of mobile application design principles, interface development workflows, and the importance of effective teamwork in building a functional application.",        "Mobile Development, UI Implementation, Flutter Development",
         [
           "Developed mobile user interfaces using Flutter and Dart.",
           "Translated UI designs into functional mobile screens.",
@@ -77,14 +74,14 @@ const T = {
         "Website",
         "Lovecco",
         "Lovecco is a web-based platform for exploring and ordering digital flower bouquet designs, offering ready-made and customizable options through a simple, intuitive, and user-friendly interface.",
-`Lovecco is a web-based platform designed to provide an interactive and convenient experience for customers looking to explore and order artificial flower bouquet designs.
+        `Lovecco is a web-based platform designed to provide an interactive and convenient experience for customers looking to explore and order artificial flower bouquet designs.
 
 The website is developed to simplify the ordering process through an intuitive interface, organized product presentation, and accessible navigation. Customers can browse available bouquet, select their preferred options, and place orders directly through the platform.
 
 Lovecco also incorporates user authentication, QRIS payment integration, and order status tracking to support the overall ordering experience. On the administrative side, the platform provides tools to manage products and customer orders in a more organized way.
 
-Through this project, the focus is on developing an integrated web application that combines user interface design, ordering functionality, and administrative management into one platform.`,        
-"Web Development, E-Commerce Website",
+Through this project, the focus is on developing an integrated web application that combines user interface design, ordering functionality, and administrative management into one platform.`,
+        "Web Development, E-Commerce Website",
         [
           "Designed and developed the website interface.",
 
@@ -131,7 +128,7 @@ Through this project, the focus is on developing an integrated web application t
     menu: "Menu",
     close: "Tutup",
     hi: "Halo, saya",
-    role: "Desainer UI/UX",
+    role: "Desainer UI/UX, Pengembang Web",
     lead: "Saya selalu penasaran untuk menjelajahi pengembangan web, desain UI/UX, dan mengubah ide menjadi pengalaman digital yang bermakna.",
     hire: "Hubungi Saya",
     view: "Lihat Portofolio Saya",
@@ -167,7 +164,7 @@ Through this project, the focus is on developing an integrated web application t
         "Website",
         "Javahike",
         "JavaHike adalah website yang dibuat untuk menjelajahi destinasi pendakian di Jawa Timur, menyajikan informasi tentang gunung, lokasi, tingkat kesulitan, dan rekomendasi melalui antarmuka yang sederhana dan responsif.",
-        "JavaHike adalah proyek pengembangan web yang dibangun untuk menghadirkan pengalaman digital yang responsif, mudah diakses, dan ramah pengguna. Website ini dikembangkan dengan fokus pada desain antarmuka yang bersih, tata letak yang terstruktur, dan navigasi yang intuitif untuk memberikan pengalaman yang konsisten di berbagai perangkat.\n\nDibangun menggunakan HTML dan CSS untuk frontend, PHP untuk pengembangan sisi server, dan MySQL untuk pengelolaan basis data, JavaHike memadukan berbagai teknologi web menjadi sebuah website yang fungsional.\n\nProses pengembangannya meliputi penerapan antarmuka pengguna, pengelolaan data melalui integrasi basis data, serta menghubungkan komponen frontend dengan proses backend.\n\nMelalui proyek ini, saya mendapatkan pengalaman praktis dalam membangun website dari awal, mengerjakan fungsionalitas yang digerakkan oleh basis data, serta memadukan teknologi frontend dan backend menjadi satu aplikasi yang utuh.",
+        "JavaHike adalah proyek pengembangan web yang dibangun untuk menghadirkan pengalaman digital yang responsif, mudah diakses, dan ramah pengguna. Website ini dikembangkan dengan fokus pada desain antarmuka yang bersih, tata letak yang terstruktur, dan navigasi yang intuitif sehingga pengalaman tetap konsisten di berbagai perangkat.\n\nDibangun menggunakan HTML dan CSS untuk frontend, PHP untuk pengembangan sisi server, dan MySQL untuk pengelolaan basis data, JavaHike memadukan berbagai teknologi web menjadi satu website yang fungsional.\n\nProses pengembangannya meliputi penerapan antarmuka pengguna, pengelolaan data melalui integrasi basis data, serta menghubungkan komponen frontend dengan proses backend.\n\nMelalui proyek ini, saya memperoleh pengalaman praktis dalam membangun website dari awal, mengerjakan fungsionalitas yang digerakkan oleh basis data, serta memadukan teknologi frontend dan backend menjadi satu aplikasi yang utuh.",
         "Desain ke kode, Pengembangan web",
         [
           "Mengembangkan antarmuka website menggunakan HTML dan CSS.",
@@ -181,7 +178,7 @@ Through this project, the focus is on developing an integrated web application t
         "Mobile",
         "Pendakianku",
         "Pendakianku adalah aplikasi mobile yang dikembangkan menggunakan Flutter, dengan fokus pada desain UI yang intuitif, navigasi yang lancar, dan pengalaman yang ramah pengguna. Proyek ini mengubah konsep UI menjadi antarmuka mobile yang fungsional melalui implementasi frontend.",
-        "Pendakianku adalah proyek pengembangan aplikasi mobile yang berfokus pada penciptaan pengalaman mobile yang intuitif dan ramah pengguna. Proyek ini menekankan desain antarmuka, tata letak yang terstruktur, dan navigasi yang lancar agar pengguna dapat berinteraksi dengan aplikasi secara nyaman.\n\nDikembangkan menggunakan Flutter dan Dart, aplikasi ini dibangun dengan menerjemahkan desain UI menjadi antarmuka mobile yang fungsional. Proses pengembangannya meliputi penerapan tata letak halaman, penataan komponen visual, pembuatan navigasi antar layar, dan menjaga konsistensi gaya di seluruh aplikasi.\n\nProyek ini memberikan pengalaman langsung dalam pengembangan frontend mobile, implementasi UI, dan mengubah konsep desain menjadi aplikasi mobile yang fungsional.",
+        "Pendakianku adalah proyek pengembangan aplikasi mobile yang dikerjakan bersama oleh tim beranggotakan dua orang. Aplikasi ini dirancang untuk memberikan platform yang praktis dan ramah pengguna terkait aktivitas pendakian gunung. Proyek ini berfokus pada pembuatan aplikasi mobile yang intuitif dengan antarmuka yang terstruktur, tata letak yang rapi, dan navigasi yang lancar agar pengalaman pengguna tetap nyaman.\n\nDalam proyek ini, saya bertanggung jawab pada pengembangan frontend, dengan fokus merancang dan menerapkan antarmuka pengguna aplikasi menggunakan Flutter dan Dart. Tanggung jawab saya meliputi menyusun tata letak visual setiap layar, menata komponen UI, menerapkan elemen interaktif, dan membuat alur navigasi antar halaman. Saya juga memastikan antarmuka aplikasi konsisten, tertata secara visual, serta mudah dipahami dan digunakan pengguna.\n\nSementara itu, rekan tim saya bertanggung jawab pada pengembangan backend, menangani logika aplikasi, pengelolaan data, dan fungsionalitas backend. Proyek ini dikembangkan melalui kolaborasi dan pembagian tugas antara kedua anggota tim, dengan masing-masing berfokus pada tanggung jawabnya.\n\nMelalui proyek ini, saya memperoleh pengalaman praktis dalam pengembangan frontend mobile, implementasi UI, pemrograman Flutter dan Dart, serta pengembangan perangkat lunak secara kolaboratif. Proyek ini juga memperkuat pemahaman saya tentang prinsip desain aplikasi mobile, alur pengembangan antarmuka, dan pentingnya kerja sama tim yang efektif dalam membangun aplikasi yang fungsional.",
         "Pengembangan Mobile, Implementasi UI, Pengembangan Flutter",
         [
           "Mengembangkan antarmuka pengguna mobile menggunakan Flutter dan Dart.",
@@ -246,30 +243,25 @@ const TAGS = [
 const PROJECTS = [
   {
     img: "/projects/javahike.png",
-    bg: "linear-gradient(135deg,#22443a,#4c7a63)",
+    bg: "#1b3f63",
     tools: ["HTML", "CSS", "PHP", "MySQL", "phpMyAdmin"],
     url: "",
   },
   {
     img: "/projects/pendakianku.jpg",
-    bg: "linear-gradient(135deg,#1f4954,#3e7c8a)",
+    bg: "#1b3f63",
     tools: ["Flutter", "Dart"],
     url: "",
   },
   {
     img: "/projects/lovecco.png",
-    bg: "linear-gradient(135deg,#82304a,#b85675)",
+    bg: "#1b3f63",
     tools: ["Javascript", "Next.js", "MySQL", "phpMyAdmin"],
     url: "",
   },
 ];
 const PHOTO = "/karis.jpg";
-const GRAD = [
-  "linear-gradient(135deg,#3559C7,#7AA2F7)",
-  "linear-gradient(135deg,#0E7C86,#6FD0C8)",
-  "linear-gradient(135deg,#6B4FBB,#B9A5F2)",
-  "linear-gradient(135deg,#1B2F4A,#5B7DA8)",
-];
+const GRAD = ["#1b3f63", "#1b3f63", "#1b3f63", "#1b3f63"];
 
 const CODE = `const dev = {
   name: 'Karisma Rinjani',
@@ -663,10 +655,7 @@ export default function Home() {
           <div className="cta reveal">
             <h2>{t.cta}</h2>
             <div className="btns">
-              <a
-                className="btn light"
-                href="email:karispjbl0809@gmail.com"
-              >
+              <a className="btn light" href="email:karispjbl0809@gmail.com">
                 {t.hire}
               </a>
               <a className="btn line" href="#work">
@@ -698,18 +687,18 @@ export default function Home() {
             <div>
               <h4>{t.find}</h4>
               <a
-                href="https://www.fiverr.com/users/lakhdeepkaur/"
+                href="https://www.instagram.com/itsaday4u?mdxt=MTE1dGFwaWlxaDhmZg=="
                 target="_blank"
                 rel="noreferrer"
               >
-                Fiverr
+                Instagram
               </a>
               <a
-                href="https://in.pinterest.com/lakhdeepkaurappiesoft/"
+                href="https://grafikarsa.com/25560020690411"
                 target="_blank"
                 rel="noreferrer"
               >
-                Pinterest
+                Grafikarsa
               </a>
             </div>
           </div>
